@@ -1,10 +1,10 @@
-# Projeto: Sistema empresarial de gerenciamento - Teste para Vaga de Estágio em Desenvolvimento Java
+# Projeto: Sistema empresarial de gerenciamento - Desenvolvimento Java
 
 ---
 
 ## Descrição do Projeto
 
-O Projeto é um sistema de gestão de funcionários desenvolvido em Java orientado a objetos. Ele foi criado como parte do processo de seleção para a vaga de estágio em desenvolvimento Java na empresa Sinerji - Gestão e Sistemas.
+O Projeto é um sistema de gestão de funcionários desenvolvido em Java orientado a objetos.
 
 ## Funcionalidades
 
