@@ -1,6 +1,6 @@
-package TesteEstágio.Model;
+package Core.Model;
 
-import TesteEstágio.Utils.Verificadata;
+import Core.Utils.Verificadata;
 
 public class Secretario extends Funcionario {
     

@@ -1,8 +1,9 @@
-package TesteEstágio.Model;
+package Core.Model;
 
 
 import java.util.List;
-import TesteEstágio.Utils.*;
+
+import Core.Utils.*;
 
 
 

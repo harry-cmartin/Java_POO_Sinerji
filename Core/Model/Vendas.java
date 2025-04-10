@@ -1,4 +1,4 @@
-package TesteEstágio.Model;
+package Core.Model;
 
 public class Vendas {
     

@@ -38,18 +38,18 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 O projeto é dividido em pacotes e classes conforme a seguinte estrutura:
 
-- `Java_-_Orientação_a_ojetos.TesteEstágio.model`: Contém as classes que representam os modelos de dados do sistema, como `Funcionario`, `Vendedor`, `Gerente`, etc.
-- `Java_-_Orientação_a_ojetos.TesteEstágio.Utils`: Contém classes utilitárias, como `Verificadata`, etc.
+- `Java_-_Orientação_a_ojetos.Core.model`: Contém as classes que representam os modelos de dados do sistema, como `Funcionario`, `Vendedor`, `Gerente`, etc.
+- `Java_-_Orientação_a_ojetos.Core.Utils`: Contém classes utilitárias, como `Verificadata`, etc.
 
 ## Instruções de Uso
 
 1. Clone o repositório do projeto para sua máquina local usando o comando `git clone`.
 2. Abra o projeto em sua IDE de preferência .
 3. Compile e execute o projeto.
-4. Para compilar utilizando o terminal linux digite o seguinte comando: `javac -cp . TesteEstágio/AdministracaoEmpresa.java`
-5. Para executa-lo: `java -cp . TesteEstágio.AdministracaoEmpresa`
+4. Para compilar utilizando o terminal linux digite o seguinte comando: `javac -cp . Core/AdministracaoEmpresa.java`
+5. Para executa-lo: `java -cp . Core.AdministracaoEmpresa`
 6. Para obter diferentes resultados para os métodos implementados e observar o funcionamento do sistema, mude os parâmetros "mes" e "ano", conforme necessário e possível, localizados no arquivo AdministracaoEmpresa, das seguintes chamadas:
 
-![Img](/TesteEstágio/assets/Img.png)
+![Img](/Core/assets/Img.png)
 
 

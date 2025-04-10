@@ -1,7 +1,9 @@
-package TesteEstágio;
+package Core;
 
-import TesteEstágio.Model.*;
 import java.util.List;
+
+import Core.Model.*;
+
 import java.util.ArrayList;
 
 public class AdministracaoEmpresa {

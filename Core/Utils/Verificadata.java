@@ -1,4 +1,4 @@
-package TesteEstágio.Utils;
+package Core.Utils;
 
 
 public class Verificadata {

@@ -1,5 +1,5 @@
-package TesteEstágio.Model;
-import TesteEstágio.Utils.Verificadata;
+package Core.Model;
+import Core.Utils.Verificadata;
 
 public class Gerente extends Funcionario {
 
